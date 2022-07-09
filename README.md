@@ -1,2 +1,2 @@
 # docker-ubuntu-ssh-with-password
-Enable root login.
+Create Docker image with SSH user.
